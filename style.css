@@ -119,6 +119,19 @@
 .ex-11-icon {
     font-size: 60px;
 }
+
+.ex-11-icon:hover {
+    animation: rotate-slow 4s linear;
+}
+
+@keyframes rotate-slow {
+    0% {
+        transform: rotate(0);
+    }
+    90% {
+        transform: rotate(315deg);
+    }
+}
 /* /Rotating Icon Hover */
 
 
