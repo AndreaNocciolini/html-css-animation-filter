@@ -1,3 +1,4 @@
+/* First Square */
 .ex-1-square {
     width: 100px;
     height: 100px;
@@ -9,31 +10,44 @@
 .ex-1-square:hover {
     background-color: red;
 }
+/* /First Square */
+
+/* Second Square */
 .ex-2-square {
     width: 100px;
     height: 100px;
     background: red;
 }
+/* /Second Square */
+
+/* Third Square */
 .ex-3-square {
     width: 100px;
     height: 100px;
     background: red;
 }
+/* /Third Square */
+
+/* Fourth Square */
 .ex-4-square {
     width: 100px;
     height: 100px;
     background: red;
 }
+/* /Fourth Square */
+
+/* Fifth Square */
 .ex-5-square {
     margin: 20px;
     width: 60px;
     height: 60px;
     background: red;
 }
+/* /Fifth Square */
+
 .ex-6-img, .ex-7-img, .ex-8-img {
     width: 500px;
 }
-
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
