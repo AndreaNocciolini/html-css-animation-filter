@@ -103,12 +103,25 @@
     scale: 1.5;
 }
 /* /img-9 */
+
+/* Rotating Icon */
 .ex-10-icon {
     font-size: 60px;
+    animation: rotate 1s linear infinite;
 }
+
+@keyframes rotate {
+    0% {transform: rotate(360deg);}
+}
+/* /Rotating Icon */
+
+/* Rotating Icon Hover */
 .ex-11-icon {
     font-size: 60px;
 }
+/* /Rotating Icon Hover */
+
+
 .ex-12-button, .ex-13-button {
     position: relative;
     display: block;
