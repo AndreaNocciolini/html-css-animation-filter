@@ -190,11 +190,11 @@
 }
 
 .ex-13-button:hover .ex-13-top-white{
-    animation: move-top-white-2 2s;
+    animation: move-top-white-2 2s linear;
 }
 
 .ex-13-button:hover .ex-13-bottom-white {
-    animation: move-bottom-white-2 2s;
+    animation: move-bottom-white-2 2s linear;
 }
 
 @keyframes move-top-white-2 {
