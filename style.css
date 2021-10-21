@@ -125,9 +125,6 @@
 }
 
 @keyframes rotate-slow {
-    0% {
-        transform: rotate(0);
-    }
     90% {
         transform: rotate(315deg);
     }
@@ -162,9 +159,6 @@
 }
 
 @keyframes move-top-white {
-    0% {
-        left: 10%;
-    }
     50% {
         left: calc(100% - 60px);
     }
@@ -174,9 +168,6 @@
     animation: move-bottom-white 2s linear;
 }
 @keyframes move-bottom-white {
-    0% {
-        right: 10%;
-    }
     50% {
         right: calc(100% - 60px);
     }
