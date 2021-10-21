@@ -160,7 +160,7 @@
 
 @keyframes move-top-white {
     50% {
-        left: calc(100% - 60px);
+        left: 120px;
     }
 }
 
@@ -169,7 +169,7 @@
 }
 @keyframes move-bottom-white {
     50% {
-        right: calc(100% - 60px);
+        right: 120px;
     }
 }
 
