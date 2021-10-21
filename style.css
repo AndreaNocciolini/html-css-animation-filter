@@ -127,7 +127,7 @@
 
 @keyframes rotate-slow {
     90% {
-        transform: rotate(315deg);
+        transform: rotate(300deg);
     }
 }
 /* /Rotating Icon Hover */
